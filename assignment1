@@ -1,0 +1,14 @@
+n=int(input('enter number:')
+evensum=0
+oddsum=0
+for i in range(1,n+1):
+if i%2==0
+evensum=eevensum+i
+else:
+oddsum=oddsum+i
+print('sum of even numbers:',evensum)
+print('sum of odd numbers:',oddsum)
+OUTPUT
+enter number:10
+sum of even numbers:30
+sum of odd numbers:25
